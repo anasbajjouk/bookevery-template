@@ -1,0 +1,19 @@
+{
+  "name": "bookevery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm-run-all --parallel devserver watch:sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasbajjouk/bookevery-template.git"
+  },
+  "author": "Anas Bajjouk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasbajjouk/bookevery-template/issues"
+  },
+  "homepage": "https://github.com/anasbajjouk/bookevery-template#readme"
+}
